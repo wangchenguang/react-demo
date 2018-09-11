@@ -135,7 +135,7 @@ ansi-styles@^3.0.0, ansi-styles@^3.2.1:
   dependencies:
     color-convert "^1.9.0"
 
-antd@^3.8.1:
+antd@3.8.1:
   version "3.8.1"
   resolved "http://registry.npm.taobao.org/antd/download/antd-3.8.1.tgz#1780acd5e9bc6c80dc23b042161418eb88f4d80e"
   dependencies:
@@ -6153,7 +6153,7 @@ react-dev-utils@^5.0.1:
     strip-ansi "3.0.1"
     text-table "0.2.0"
 
-react-dom@^16.4.2:
+react-dom@16.4.2:
   version "16.4.2"
   resolved "http://registry.npm.taobao.org/react-dom/download/react-dom-16.4.2.tgz#4afed569689f2c561d2b8da0b819669c38a0bda4"
   dependencies:
@@ -6234,7 +6234,7 @@ react-slick@~0.23.1:
     lodash.debounce "^4.0.8"
     resize-observer-polyfill "^1.5.0"
 
-react@^16.4.2:
+react@16.4.2:
   version "16.4.2"
   resolved "http://registry.npm.taobao.org/react/download/react-16.4.2.tgz#2cd90154e3a9d9dd8da2991149fdca3c260e129f"
   dependencies:

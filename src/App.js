@@ -1,10 +1,16 @@
 import React, {PureComponent} from 'react';
 import Hello from './Hello';
 import ChatApp from './c01/ChatApp';
+import CommentBox from './c02/CommentBox';
+import Clock from "./c03/Clock";
+import DomDiff from "./c05/DomDiff";
 import 'antd/dist/antd.css';
 
 const routeMap = {
     chat: ChatApp,
+    "comment-box": CommentBox,
+    clock: Clock,
+    "dom-diff": DomDiff,
 };
 
 const styles = {
